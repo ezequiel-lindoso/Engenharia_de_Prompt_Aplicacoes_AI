@@ -1,10 +1,10 @@
-### Prompt Genérico
+## Prompt Genérico
 "Explique o que é programação."
 Resposta:
 Programação é o processo de criar instruções que um computador pode seguir para executar tarefas.
 Essas instruções são escritas em linguagens de programação, como JavaScript ou Python.
 ________________________________________________________________________________________________________________________________________________
-### Prompt Estruturado
+## Prompt Estruturado
 "Explique o que é programação para um iniciante completo, usando uma analogia simples do dia a dia, e inclua um exemplo prático em JavaScript."
 Resposta:
 Programação é como ensinar alguém a fazer uma tarefa passo a passo. Imagine que você está ensinando uma pessoa a fazer um sanduíche: 
