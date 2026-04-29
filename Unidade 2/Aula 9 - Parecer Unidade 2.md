@@ -51,10 +51,11 @@ Ponto crítico: exige maturidade que iniciantes ainda estão desenvolvendo.
 Ponto forte: diversidade de ferramentas para diferentes contextos.
 Ponto crítico: o conteúdo poderia aprofundar melhor quando usar cada uma na prática.
 
-Conclusão
+## Conclusão
 
 A Unidade II conecta bem teoria e prática, mostrando como a IA pode melhorar o desenvolvimento. O maior benefício está na produtividade e suporte técnico, enquanto o maior risco é a dependência sem compreensão. O uso ideal exige equilíbrio entre ferramentas e fundamentos.
 
-Fontes utilizadas
+## Fontes utilizadas
 Materiais da aula – Unidade II
-ChatGPT (apoio na elaboração do texto)
+
+ChatGPT
