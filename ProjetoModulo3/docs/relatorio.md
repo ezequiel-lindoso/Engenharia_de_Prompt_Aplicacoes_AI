@@ -1,7 +1,7 @@
 ## Colaboração: 
-Mauricio Cunha Ortiga Ferreira - 47907142 [Maurício Cunha Ortiga Ferreira](https://github.com/Mauricioortiga/Engenharia-de-Prompt-e-Aplicacoes-em-IA/tree/main/Projeto)
+ [Maurício Cunha Ortiga Ferreira](https://github.com/Mauricioortiga/Engenharia-de-Prompt-e-Aplicacoes-em-IA/tree/main/Projeto)
 
-Ezequiel Ferreira Lindoso - 48187828
+ RGM: 47907142
 
 ---
 
