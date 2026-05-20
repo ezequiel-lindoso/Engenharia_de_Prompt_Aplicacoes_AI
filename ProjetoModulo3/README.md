@@ -2,10 +2,10 @@
 
 ## Colaboração: 
 Mauricio Cunha Ortiga Ferreira - 47907142
-https://github.com/Mauricioortiga/Engenharia-de-Prompt-e-Aplicacoes-em-IA/tree/main/Projeto/docs
+[Mauricio Cunha Ortiga Ferreira](https://github.com/Mauricioortiga/Engenharia-de-Prompt-e-Aplicacoes-em-IA/tree/main/Projeto/docs)
 
 Ezequiel Ferreira Lindoso - 48187828
-https://github.com/ezequiel-lindoso/Engenharia_de_Prompt_Aplicacoes_AI/tree/main/ProjetoModulo3/docs
+[Ezequiel Ferreira Lindoso](https://github.com/ezequiel-lindoso/Engenharia_de_Prompt_Aplicacoes_AI/tree/main/ProjetoModulo3/docs)
 
 ---
 Uma solução simples e experimental em Inteligência Artificial voltada para criar protótipos com automação de tarefas e análise preditiva. Este protótipo serve como prova de conceito para validar a viabilidade da IA para solucionar problemas do dia a dia.
