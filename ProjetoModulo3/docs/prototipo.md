@@ -1,8 +1,10 @@
 [Projeto Dashboard de Tarefas Diárias.pdf](https://github.com/user-attachments/files/28076612/Projeto.Dashboard.de.Tarefas.Diarias.pdf)
 
 
-<img width="684" height="395" alt="592163730-8015c4dc-551e-4d54-9d5a-8c14d5ef9047" src="https://github.com/user-attachments/assets/83e10186-9376-4494-a0c3-8801672114a7" />
+<img width="1348" height="595" alt="WhatsApp Image 2026-05-20 at 20 56 44" src="https://github.com/user-attachments/assets/100f47cb-125d-4050-a6a6-270974714757" />
+
 
 ---
 
-<img width="337" height="453" alt="592163839-c8ea2e0f-f27c-430c-a655-f73ab1e7a3b4" src="https://github.com/user-attachments/assets/31bd140c-4919-4419-98ff-79653c12db27" />
+<img width="1347" height="593" alt="WhatsApp Image 2026-05-20 at 20 56 44 (1)" src="https://github.com/user-attachments/assets/6481cd40-cebc-440b-b580-585237c7efdc" />
+
