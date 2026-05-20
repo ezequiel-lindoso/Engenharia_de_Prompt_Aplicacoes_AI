@@ -75,3 +75,6 @@ Ezequiel ficou encarregado de decidir as condições avaliadas, lógica de funci
 🚫 **Próximos Passos o próximo protótipo**
 
 Implementar notificações de Push/alarmes para os horários estipulados.
+
+[Projeto Dashboard de Tarefas Diárias.pdf](https://github.com/user-attachments/files/28076598/Projeto.Dashboard.de.Tarefas.Diarias.pdf)
+
