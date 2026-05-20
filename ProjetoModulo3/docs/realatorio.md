@@ -1,3 +1,6 @@
+## Colaboração: 
+Mauricio Cunha Ortiga Ferreira
+Ezequiel Ferreira Lindoso - 48187828
 📌 **Desafio proposto pelo grupo:**
 
 Dashboard para otimizar a gestão de tarefas do dia a dia.
