@@ -1,3 +1,6 @@
+[Projeto Dashboard de Tarefas Diárias.pdf](https://github.com/user-attachments/files/28076612/Projeto.Dashboard.de.Tarefas.Diarias.pdf)
+
+
 <img width="684" height="395" alt="592163730-8015c4dc-551e-4d54-9d5a-8c14d5ef9047" src="https://github.com/user-attachments/assets/83e10186-9376-4494-a0c3-8801672114a7" />
 
 ---
