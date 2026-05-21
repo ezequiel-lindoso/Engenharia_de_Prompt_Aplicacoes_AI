@@ -6,12 +6,55 @@
 
 RGM: 47907142
 
----
-Uma solução simples e experimental em Inteligência Artificial voltada para criar protótipos com automação de tarefas e análise preditiva. Este protótipo serve como prova de conceito para validar a viabilidade da IA para solucionar problemas do dia a dia.
----
-<img width="1249" height="750" alt="Captura de tela 2026-05-18 115228" src="https://github.com/user-attachments/assets/36611f36-53cf-4fd2-b0a0-684774ba55c0" />
+📌 Desafio proposto pelo grupo:
 
---
+Dashboard para otimizar a gestão de tarefas do dia a dia.
 
-<img width="1355" height="615" alt="Captura de tela 2026-05-18 115239" src="https://github.com/user-attachments/assets/1c3fbc05-0f3c-4c0d-9e85-07cf70caab11" />
+🖥️ Breve explicação do Protótipo:
 
+A aplicação do dashboard permite criar, editar, deletar, concluir tarefas, estipular horários ao longo do dia, marcar os dias concluídos e acompanhar o percentual de progresso até a data final de conclusão.
+
+⚙️ Plataforma utilizada:
+
+Nome: Bubble
+
+Justificativa: A IA Bubble é especializada na construção de aplicativos mobile ou criação de sites, seu diferencial é ser uma ferramenta "Full Stack" no-code, unindo a construção do front-end e back-end em um único local. Caso queira criar seu site sem prompt, a IA disponibiliza ao usuário a criação manual do seu site com a ferramenta Design.
+
+✅ Vantagens Identificadas:
+
+Agilidade na Tomada de Decisão:
+Segmentação com Poucos Cliques: Os botões rápidos de filtro (por prioridade alta/média/baixa ou por status) permitem que o usuário reorganize sua visão em segundos.
+
+Acompanhamento de Progresso Claro:
+A presença de barras de progresso visuais dá um feedback imediato de quão perto a tarefa está de ser finalizada, aumentando a motivação (efeito de gamificação natural).
+
+Melhor Planejamento de Rotina:
+A divisão detalhada entre data e horário de início/término permite que o usuário não apenas saiba o que fazer, mas planeje exatamente quando fará. Isso evita o acúmulo de tarefas e ajuda a mitigar a procrastinação.
+
+Histórico de Produtividade Semanal:
+O gráfico de desempenho semanal funciona como um espelho de produtividade. O usuário consegue ver os dias em que produziu mais ou menos, permitindo que ele ajuste seu ritmo de trabalho para as semanas seguintes de forma mais realista.
+
+Formulários Diretos e Limpos:
+A tela de criação de novas tarefas usa uma linguagem simples e campos bem definidos (Título, Descrição, Prioridade, Status). Qualquer usuário, mesmo sem afinidade com tecnologia, consegue operar a ferramenta imediatamente, sem precisar ler manuais ou assistir a tutoriais complexos.
+
+⚠️ Limitações Encontradas:
+
+Bubble é limitado a 2 prompts
+
+Bubble não permite baixar o arquivo criado a menos que pague 15 dólares ao mês
+
+Site responsivo não tem notificação de alarme para realizar as tarefas nos horários estabelecidos
+
+📚 Reflexão Crítica
+
+O Bubble não disponibiliza o download do prompt criado, como alternativa, precisamos tirar um Print Screen da tela para mostrar o projeto criado.
+
+👥 Colaboração
+
+Maurício ficou encarregado de decidir a plataforma que seria utilizada (Bubble), definição de soluções adicionais e arquitetura técnica do protótipo.
+
+Ezequiel ficou encarregado de decidir as condições avaliadas, lógica de funcionamento e design da interação do usuário com o Dashboard.
+
+🚫 Próximos Passos o próximo protótipo
+
+Implementar notificações de Push/alarmes para os horários estipulados.
