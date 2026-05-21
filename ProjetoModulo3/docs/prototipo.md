@@ -1,4 +1,4 @@
-[Projeto Dashboard de Tarefas Diárias.pdf](https://github.com/user-attachments/files/28076612/Projeto.Dashboard.de.Tarefas.Diarias.pdf)
+
 
 
 <img width="1348" height="595" alt="WhatsApp Image 2026-05-20 at 20 56 44" src="https://github.com/user-attachments/assets/100f47cb-125d-4050-a6a6-270974714757" />
