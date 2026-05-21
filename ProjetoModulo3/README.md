@@ -1,6 +1,6 @@
 # Gerenciador de Tarefas com Dashboard
 
-## Projeto feito em Colaboração com: 
+Projeto feito em Colaboração com: 
 
 [Mauricio Cunha Ortiga Ferreira](https://github.com/Mauricioortiga/Engenharia-de-Prompt-e-Aplicacoes-em-IA/tree/main/Projeto/docs)
 
