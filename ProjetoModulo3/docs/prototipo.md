@@ -8,7 +8,7 @@
 
 <img width="1347" height="593" alt="WhatsApp Image 2026-05-20 at 20 56 44 (1)" src="https://github.com/user-attachments/assets/6481cd40-cebc-440b-b580-585237c7efdc" />
 
-[projeto_estudo_de_caso (1).html](https://github.com/user-attachments/files/28079437/projeto_estudo_de_caso.1.html)
+[projeto_Gerenciador de Tarefas.html](https://github.com/user-attachments/files/28079437/projeto_estudo_de_caso.1.html)
 <!-- 
 Prompt: Faça um app de gerenciamento de tarefas (estilo Trello simplificado), com:
 Frontend Interface responsiva com HTML, CSS e JavaScript e com Dashboard com estatísticas visuais das tarefas
