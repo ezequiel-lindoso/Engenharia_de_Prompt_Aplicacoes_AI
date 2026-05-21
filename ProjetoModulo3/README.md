@@ -6,6 +6,7 @@ Projeto feito em Colaboração com:
 
 RGM: 47907142
 
+---
 📌 Desafio proposto pelo grupo:
 
 Dashboard para otimizar a gestão de tarefas do dia a dia.
