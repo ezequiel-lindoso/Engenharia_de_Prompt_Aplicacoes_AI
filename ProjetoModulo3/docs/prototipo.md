@@ -17,7 +17,7 @@ A aplicação do dashboard permite criar, editar, deletar, concluir tarefas, est
 Prompt: Faça um app de gerenciamento de tarefas (estilo Trello simplificado), com:
 Frontend Interface responsiva com HTML, CSS e JavaScript e com Dashboard com estatísticas visuais das tarefas
 -->
-
+<!--
 <!DOCTYPE html>
 <html lang="pt-BR">
 <head>
@@ -981,3 +981,4 @@ Frontend Interface responsiva com HTML, CSS e JavaScript e com Dashboard com est
     </script>
 </body>
 </html>
+-->
