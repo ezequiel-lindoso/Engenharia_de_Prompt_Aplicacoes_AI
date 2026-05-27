@@ -1,4 +1,4 @@
-**Protótipo em Low Code:** 
+**Protótipo em No Code:** 
 
 A aplicação do dashboard permite criar, editar, deletar, concluir tarefas, estipular horários ao longo do dia, marcar os dias concluídos e acompanhar o percentual de progresso até a data final de conclusão.
 
